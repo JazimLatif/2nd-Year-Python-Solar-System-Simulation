@@ -1,0 +1,23 @@
+# Python-files-final
+
+_________________________________________________
+JAZIM LATIF FINAL PROJECT 
+_________________________________________________
+RUN THE SIMULATION FILE FIRST TO GENERATE THE .NPY USED BY THE GRAPHS FILE (ANALYSIS)
+
+RUN THE GRAPHS FILE TO GET 3 GRAPHS FOR POSITION, EK AND MOMENTUM BASED ON DIFFERENT VALUES OF DELTA (IN NBODYSYSTEM) AND RANGE(IN SIMULATION)
+
+THE ANALYSIS FILES ARE PROVIDED IN THE ANALYSIS FOLDER 
+
+SHORT TIME:
+DELTA = 1000
+RANGE=20000
+
+LONG TIME:
+DELTA=10000
+RANGE=200000
+
+
+Test1= earths gravity 
+Test2= Massless particle
+Test3= Earth returns to initial position with Delta = 1 year
